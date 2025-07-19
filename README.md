@@ -6,3 +6,6 @@ npx npm-check-updates -u
 ```shell
 npm install
 ```
+## curl
+```shell
+```
